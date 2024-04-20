@@ -11,3 +11,5 @@ const allowedCors = [
     'https://students-projects.ru',
     'localhost:3000'
   ];
+
+  module.exports = cors;
